@@ -1,0 +1,1 @@
+{"root":["./src/app.ts","./src/config/dbconfig.ts","./src/controllers/schoolcontroller.ts","./src/model/schoolmodel.ts","./src/routes/schoolroutes.ts","./src/utils/distancecalculator.ts"],"version":"5.7.2"}
